@@ -205,8 +205,6 @@ source("script/scRNAseq/figure/figS3_unknown_celltype.R")
 ####-- Supplementary Fig4
 source("script/scRNAseq/figure/figS4_transitioning_cells.R")
 
-####-- Supplementary Fig5
-source("script/scRNAseq/figure/figS5_muscle_splicing.R")
 
 ####-- Table DEG
 source("script/scRNAseq/table/table_deg_all_named_clusters.R")
@@ -216,6 +214,10 @@ source("script/scRNAseq/table/table_deg_within_broadcellgroup.R")
 
 ####-- Count the number of cells in each cell type group
 source("script/scRNAseq/table/table_cellcout_per_celltype.r")
+
+
+####-- Supplementary Fig5 (this needs to be run after the DEG analysis)
+source("script/scRNAseq/figure/figS5_muscle_splicing.R")
 
 
 ####-- Save data
