@@ -1,0 +1,7 @@
+name: bwa-mem2
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - bwa-mem2=2.2.1
+  - matplotlib=3.10.5

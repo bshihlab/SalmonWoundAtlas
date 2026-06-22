@@ -1,0 +1,9 @@
+name: biomart
+channels:
+  - anaconda 
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.4.0
+  - r-biomartr=1.0.7
