@@ -1,0 +1,44 @@
+named_celltypes
+adipocyte
+Schwann cell
+iridophore
+melanophore
+xanthophore
+"endothelial, lymphatic"
+"endothelial, vascular"
+erythrocyte
+"keratinocyte, basal"
+"keratinocyte, suprabasal"
+"keratinocyte, periderm"
+"lymphocyte, B"
+"lymphocyte, T"
+neutrophil
+dendritic cell
+macrophage
+osteoclast
+"fibroblast, wound-associated"
+"fibroblast, tenocyte"
+fibroblast
+"progenitor, pericyte"
+"progenitor, MSC"
+"progenitor, fibroadipogenic"
+"progenitor, pax7+"
+myoblast
+myotube
+"myofibre, red"
+"myofibre, white, early"
+"myofibre, white, late"
+"myofibre, red, fg"
+"myofibre, white, fg"
+"SFC, osteoblast"
+"SFC, osteoblast-like, focus"
+"SFC, osteoblast-like, neurovascular"
+goblet cell
+thrombocyte
+tuft cell I
+tuft cell II
+"undefined, sema3d+"
+"undefined, slit1+"
+"undefined, slit1+ aspn+"
+"undefined, rspo1+"
+"undefined, ribosome-high"
